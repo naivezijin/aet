@@ -4,7 +4,7 @@
 ---
 ####Code/代码
 	Much of program that uses to calculate data designed by Python 2.7.5
-	有用相关数据计算基于Python2.7.5的脚本程序
+	用于相关数据计算基于Python2.7.5的脚本程序
 
 ####Diagram/电路图
 	Contains some diagram pictures designed by Ni Multisim 12.0
