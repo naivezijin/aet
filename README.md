@@ -1,5 +1,5 @@
 #Aet
-###Analog Electronics Technique
+###Analog Electronics Technique/模拟电子技术
 ---
 ####Code/代码
 	Much of program that uses to calculate data designed by Python 2.7.5
