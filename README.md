@@ -13,5 +13,5 @@
 	关于代码和电路图的文档
 
 ####Add-ones/附加
-	Entertain and temporary folder
+	Entertain and temporary files
 	娱乐和临时文件
