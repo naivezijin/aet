@@ -3,14 +3,13 @@
 ###稷下
 ---
 ###门派
-	DT
-	ST
-	MW
-	TG
-	LG
-	PT
-	HS
-	FC
+	ZB稷下A1
+	ZB稷下A2
+	ZB稷下A3
+	ZB稷下A5
+	ZB稷下A6
+	ZB稷下A7
+	ZB稷下A8
 
 ###加点
 	人物：
